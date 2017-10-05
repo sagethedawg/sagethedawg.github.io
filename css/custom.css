@@ -26,3 +26,14 @@
 	background-color:fff;
 	}
 	
+
+	a.words{
+	display:inline-block;
+	font-family:sans-serif;
+	font-size: 16px;
+	color:fff;
+	text-decoration: none;
+	}
+
+
+	
