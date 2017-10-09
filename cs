@@ -22,13 +22,26 @@ img {
 
  
 <a href="https://sagethedawg.github.io" class = "tab1" >Home</a>&nbsp;
-<a href="cs101.html" class = "tab1" >CS101</a>&nbsp;
-
+<a href="cars.html" class = "tab1" >Cars</a>&nbsp;
+<a href="computer.html" class = "tab1" >Computer</a>&nbsp;
+<a href="Doggo.html" class = "tab1" >Doggo</a>&nbsp;
 
 
 <p style="color:white;">
 
-This is where(for now) I'm keeping a record of what I do in my classes.(This is not everything, this is just a few bits and pieces)
+	Hello, my name is Erik Swenson. I've created this site to have easy access to alot of things that I work on.
+<br>
+<br>	
+Personal email:		sagethedawg@gmail.com <br>
+Professional email:	erikswenson@students.columbiabasin.edu <br>
+Phone number:		Contact my email if you need my number <br> <br>
+
+		
+On this website you will find a variety of things. The most impostant thing you will find is a link to my Github repositories.  
+In the repositories, you will find a large amount of saved code that I've worked on over the years.
+The next thing you will find that is important is a link to my new page(probably not there yet).
+Other than that, the rest that you will see is essentially just personal projects that I decided to share and/or create easy access to for myself and others.
+	
 </p>
 
 </center> 
