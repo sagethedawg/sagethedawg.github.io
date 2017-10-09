@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Sage</title>
+
+<link rel="stylesheet" href="css/custom.css">
+    <style>
+   
+img {
+	display: inline;
+    max-width: 100%;
+}
+</style>
+
+</head>
+<body>
+
+
+<center>
+
+<p style="color:white;">
+Here's a few things I've done in CS101
+	
+</p>
+
+</center> 
+
+</body>
+</html>
