@@ -1,0 +1,73 @@
+body{
+padding:0px;
+margin:0px;
+background-color:#000;
+color: #363636;
+}
+
+html{
+	font-family:sans-serif; font-size: 14px;
+}
+
+body{margin:0;
+	background-color:#363636;
+	color :#594f4f;
+	}
+	
+pre{
+	font-family:sans-serif;
+		font-size:18px;
+		background-color:#eee;
+		color:#80bbbb;
+}
+
+a.slink {
+display:inline-block;
+font-family:sans-serif;
+font-size: 18px;
+background-color:#e8175d;
+color:#a8a7a7;
+}
+
+a.slink:hover {
+display:inline-block;
+font-family:sans-serif;
+font-size: 18px;
+background-color:#a8a7a7;
+color:#e8175d;
+}
+
+a.menu{
+display:inline-block;
+font-family:sans-serif;
+font-size: 18px;
+background-color:#45ada8;
+color:#9de0ad;
+border-style: solid;
+border-color:cc527a;
+padding: 5px 5px 5px 5px;
+border-width;5px 5px 5px 5px;
+
+}
+
+a.menu: hover {
+font-family:sans-serif;
+	color:#f2ff00
+}
+ 
+ /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+    .carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      min-height: 200px;
+    }
+ 
+ /* Hide the carousel text when the screen is less than 600 pixels wide */
+    @media (max-width: 600px) {
+      .carousel-caption {
+        display: none; 
+      }
+    }
